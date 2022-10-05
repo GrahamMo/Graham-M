@@ -10,6 +10,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <img align="left" alt="Graham's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-  <img align="right" alt="GIF" src="https://github.com/GrahamMo/GrahamMo/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/GrahamMo/GrahamMo/blob/1427fd38f4fbaffc3394e989294227c613588688/code.gif?raw=true" width="500" height="320" />
 
 
