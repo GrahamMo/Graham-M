@@ -1,4 +1,4 @@
-### Hello World! :wave:
+# Hello World! :wave:
 
 Hi, i'm [Graham Morrison](https://grahammorrison.ca/) and I’m a 2nd-year Software Engineering Student at Mcmaster University. I'm a passionate developer who loves to learn new technologies and take on new challenges. 
 
@@ -17,7 +17,7 @@ If you'd like to know more about my projects or just me in general, check out my
 
 <br  />
 
-# ⚙️ Languages and Tools
+### ⚙️ Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
