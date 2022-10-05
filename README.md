@@ -11,7 +11,7 @@ a passionate self-taught full stack web developer and a freelance software engin
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 <a href="https://www.grahammorrison.ca">
-  <img align="left" alt="Graham's Website" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Graham's Website" width="22px" src="https://github.com/GrahamMo/GrahamMo/blob/06b590a5b548e8680112fac66625bed0cc43fe8a/gmicon.png" />
 </a>
 <a href="https://www.linkedin.com/in/morrison-e-graham/">
   <img align="left" alt="Graham's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
