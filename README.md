@@ -15,6 +15,8 @@ If you'd like to know more about my projects or just me in general, check out my
 
 <img align="right" alt="GIF" src="https://github.com/GrahamMo/GrahamMo/blob/1427fd38f4fbaffc3394e989294227c613588688/code.gif?raw=true" width="500" height="320" />
 
+<br  />
+
 ### ⚙️ Technologies I use
 ![Python](https://img.shields.io/badge/Python-FECE00?style=flat&logo=Python&logoColor=3776AB)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
