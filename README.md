@@ -1,4 +1,4 @@
-### Hello World!
+### Hello World! :wave:
 
 Hi, i'm [Graham Morrison](https://grahammorrison.ca/) and I’m a 2nd-year Software Engineering Student at Mcmaster University. I'm a passionate developer who loves to learn new technologies and take on new challenges. 
 
