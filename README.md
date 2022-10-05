@@ -17,6 +17,12 @@ If you'd like to know more about my projects or just me in general, check out my
 
 <br  />
 
+### Fun stuff about me
+- I grew up playing hockey and unfortunetly am leafs fan. :maple_leaf:
+- I love music. I play a bunch of different instruments and have a lot of music related personal projects. I'm always looking for recommendations! :notes: :musical_keyboard:
+- I love board games and activities that make you use your brain! :game_die:
+- Je parle français :tokyo_tower:
+
 ### ⚙️ Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
