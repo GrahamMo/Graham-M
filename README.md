@@ -13,7 +13,7 @@ If you'd like to know more about my projects or just me in general, check out my
   <img align="left" alt="Graham's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-| <a href="https://github.com/GrahamMo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Graham's github stats" /></a> | <a href="https://github.com/GrahamMo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/GrahamMo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GrahamMo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Graham's github stats" /></a> | <a href="https://github.com/GrahamMo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrahamMo&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <img align="right" alt="GIF" src="https://github.com/GrahamMo/GrahamMo/blob/1427fd38f4fbaffc3394e989294227c613588688/code.gif?raw=true" width="500" height="320" />
