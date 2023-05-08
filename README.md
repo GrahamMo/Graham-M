@@ -2,7 +2,7 @@
 
 Hi, i'm [Graham Morrison](https://grahammorrison.ca/) and I’m a 2nd-year Software Engineering Student at Mcmaster University. I'm a passionate developer who loves to learn new technologies and take on new challenges. 
 
-I just finished an SWE Internship @[Canoo](https://www.canoo.com/) and now I am working hard at school. Outside of school I'm continuing to work on personal projects and am looking for Summer 2023 internship opportunities.
+I just finished an SWE Internship @[Canoo](https://www.canoo.com/) and now I am working as a Systems Architect and Developper at Imperial Lifestyle Management. Outside of work I'm continuing to work on personal projects and am looking for Summer 2024 internship opportunities.
 
 If you'd like to know more about my projects or just me in general, check out my [portfolio](https://www.grahammorrison.ca) or send me a message on [LinkedIn](https://www.linkedin.com/in/morrison-e-graham/)!
 
