@@ -5,8 +5,8 @@ Hi, i'm [Graham Morrison](https://grahammorrison.ca/) and I’m a 3rd-year Softw
 Currently I am working as a Systems Architect and Developer at Imperial Lifestyle Management. Outside of work I am doing more coding projects most notably being working on a SaaS startup. I am always looking for mentorship and am looking for Summer 2024 internship opportunities so don't be afraid to reach out!
 
 Previous Internships:
-[Imperial Lifestyle Management](https://imperiallife.ca/)
-[Canoo](https://www.canoo.com/)
+- [Imperial Lifestyle Management](https://imperiallife.ca/)
+- [Canoo](https://www.canoo.com/)
 
 If you'd like to know more about my projects or just me in general, check out my [portfolio](https://www.grahammorrison.ca) or send me a message on [LinkedIn](https://www.linkedin.com/in/morrison-e-graham/)!
 
